@@ -43,11 +43,11 @@ Building scalable internet-native ecosystems, infrastructure, and digital platfo
 ## Infrastructure
 
 ```text
-Cloudflare Workers
-BNB Smart Chain
-GitHub Infrastructure
-Public Documentation
 Modular Ecosystem Architecture
+Public Documentation
+GitHub Infrastructure
+BNB Smart Chain
+Cloudflare
 ```
 
 ---
